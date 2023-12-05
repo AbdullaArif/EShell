@@ -1,12 +1,15 @@
+using EShellAPI.Persistence;
 namespace EshellAPI.API
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+            
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            builder.Services.AddPersistenceServices();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Infrastructure.deps.json
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Infrastructure.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Infrastructure.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Application.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Domain.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Application.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\bin\Debug\net6.0\EShellAPI.Domain.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\refint\EShellAPI.Infrastructure.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\EShellAPI.Infrastructure.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Infrastructure\obj\Debug\net6.0\ref\EShellAPI.Infrastructure.dll

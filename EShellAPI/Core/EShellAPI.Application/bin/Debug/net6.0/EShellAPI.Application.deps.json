@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EShellAPI.Application/1.0.0": {
+        "dependencies": {
+          "EShellAPI.Domain": "1.0.0"
+        },
+        "runtime": {
+          "EShellAPI.Application.dll": {}
+        }
+      },
+      "EShellAPI.Domain/1.0.0": {
+        "runtime": {
+          "EShellAPI.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EShellAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EShellAPI.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

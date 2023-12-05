@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\bin\Debug\net6.0\EShellAPI.Application.deps.json
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\bin\Debug\net6.0\EShellAPI.Application.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\bin\Debug\net6.0\EShellAPI.Application.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\bin\Debug\net6.0\EShellAPI.Domain.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\bin\Debug\net6.0\EShellAPI.Domain.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.csproj.CopyComplete
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\refint\EShellAPI.Application.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\EShellAPI.Application.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Core\EShellAPI.Application\obj\Debug\net6.0\ref\EShellAPI.Application.dll

@@ -7,5 +7,9 @@ namespace EshellAPI.API.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
+        public IActionResult GetProducts()
+        {
+            return Ok();
+        }
     }
 }

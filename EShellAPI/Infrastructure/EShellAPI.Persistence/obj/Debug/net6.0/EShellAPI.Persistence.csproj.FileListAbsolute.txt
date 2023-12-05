@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Persistence.deps.json
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Persistence.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Persistence.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Application.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Domain.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Application.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\bin\Debug\net6.0\EShellAPI.Domain.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.AssemblyInfo.cs
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.csproj.CopyComplete
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\refint\EShellAPI.Persistence.dll
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\EShellAPI.Persistence.pdb
+C:\Users\user\Desktop\ESell\EShellAPI\Infrastructure\EShellAPI.Persistence\obj\Debug\net6.0\ref\EShellAPI.Persistence.dll

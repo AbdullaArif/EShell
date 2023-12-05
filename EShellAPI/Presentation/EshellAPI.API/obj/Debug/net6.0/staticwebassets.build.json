@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DsA3h+zzK1AKVH4S3CptuspeLVoXOVwJRyPFfOQbYR8=",
+  "Source": "EshellAPI.API",
+  "BasePath": "_content/EshellAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

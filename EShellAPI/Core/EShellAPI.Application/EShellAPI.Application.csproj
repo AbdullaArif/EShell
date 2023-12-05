@@ -10,8 +10,4 @@
     <ProjectReference Include="..\EShellAPI.Domain\EShellAPI.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Abstractions\" />
-  </ItemGroup>
-
 </Project>
