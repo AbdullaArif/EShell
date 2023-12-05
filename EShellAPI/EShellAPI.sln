@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E8FF2AB1-BABB-41D4-A748-05ED1D916E46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C6DFCC33-69E8-43F4-9D0E-ECF62633F71E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShellAPI.Infrastructure", "Infrastructure\EShellAPI.Infrastructure\EShellAPI.Infrastructure.csproj", "{B6ED4253-C741-4086-B4F5-EF60F143A129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShellAPI.Application", "Core\EShellAPI.Application\EShellAPI.Application.csproj", "{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShellAPI.Domain", "Core\EShellAPI.Domain\EShellAPI.Domain.csproj", "{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShellAPI.Persistence", "Infrastructure\EShellAPI.Persistence\EShellAPI.Persistence.csproj", "{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7C8A106E-DDEE-438D-9FFA-37471C8DB54C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EshellAPI.API", "Presentation\EshellAPI.API\EshellAPI.API.csproj", "{5067B670-3F34-43F5-8BF8-A1083BA8D307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6ED4253-C741-4086-B4F5-EF60F143A129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ED4253-C741-4086-B4F5-EF60F143A129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ED4253-C741-4086-B4F5-EF60F143A129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ED4253-C741-4086-B4F5-EF60F143A129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5067B670-3F34-43F5-8BF8-A1083BA8D307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5067B670-3F34-43F5-8BF8-A1083BA8D307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5067B670-3F34-43F5-8BF8-A1083BA8D307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5067B670-3F34-43F5-8BF8-A1083BA8D307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B6ED4253-C741-4086-B4F5-EF60F143A129} = {C6DFCC33-69E8-43F4-9D0E-ECF62633F71E}
+		{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA} = {E8FF2AB1-BABB-41D4-A748-05ED1D916E46}
+		{01C82B2F-7247-4DC4-8F47-31FBF47ADA21} = {E8FF2AB1-BABB-41D4-A748-05ED1D916E46}
+		{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41} = {C6DFCC33-69E8-43F4-9D0E-ECF62633F71E}
+		{5067B670-3F34-43F5-8BF8-A1083BA8D307} = {7C8A106E-DDEE-438D-9FFA-37471C8DB54C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15F9DB5A-A72D-4077-9573-101F3409C970}
+	EndGlobalSection
+EndGlobal

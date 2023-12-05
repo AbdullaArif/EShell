@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pmb2QgZvbqp+pWufDITYLK9I3CVwJCcQ5xATi8i1WmazrFWgiO6jmkc8psJIdslyVTuiXAjVSv7g/L3Ec7pc2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\ESell\\EShellAPI\\Infrastructure\\EShellAPI.Persistence\\EShellAPI.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
