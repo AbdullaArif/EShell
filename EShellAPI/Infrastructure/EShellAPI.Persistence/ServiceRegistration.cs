@@ -14,7 +14,7 @@ namespace EShellAPI.Persistence
     {
         public static void AddPersistenceServices(this IServiceCollection services)
         {
-            services.AddDbContext<EShellAPIDbContext>(options => options.UseNpgsql("User ID=postgres;Password=123456;Host=localhost;Port=5432;Database=EShellAPIDb;"));
+            services.AddDbContext<EShellAPIDbContext>(options => options.UseNpgsql(CustomConfiguration.ConnectionString));
         }
     }
 }
