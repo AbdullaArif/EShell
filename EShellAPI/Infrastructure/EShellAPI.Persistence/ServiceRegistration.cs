@@ -1,5 +1,6 @@
-﻿using EShellAPI.Application.Abstractions;
-using EShellAPI.Persistence.Concretes;
+﻿
+using EShellAPI.Persistence.Contexts;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,7 @@ namespace EShellAPI.Persistence
     {
         public static void AddPersistenceServices(this IServiceCollection services)
         {
-            services.AddSingleton<IProductService,ProductService>();
+            services.AddDbContext<EShellAPIDbContext>(options => options.UseNpgsql("User ID=postgres;Password=123456;Host=localhost;Port=5432;Database=EShellAPIDb;"));
         }
     }
 }

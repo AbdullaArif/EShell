@@ -9,15 +9,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShellAPI.Infrastructure", "Infrastructure\EShellAPI.Infrastructure\EShellAPI.Infrastructure.csproj", "{B6ED4253-C741-4086-B4F5-EF60F143A129}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShellAPI.Application", "Core\EShellAPI.Application\EShellAPI.Application.csproj", "{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShellAPI.Application", "Core\EShellAPI.Application\EShellAPI.Application.csproj", "{26722DC3-43DC-48A8-97FA-BB09FB1C9DCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShellAPI.Domain", "Core\EShellAPI.Domain\EShellAPI.Domain.csproj", "{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShellAPI.Domain", "Core\EShellAPI.Domain\EShellAPI.Domain.csproj", "{01C82B2F-7247-4DC4-8F47-31FBF47ADA21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EShellAPI.Persistence", "Infrastructure\EShellAPI.Persistence\EShellAPI.Persistence.csproj", "{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EShellAPI.Persistence", "Infrastructure\EShellAPI.Persistence\EShellAPI.Persistence.csproj", "{A3E9FE4E-5D50-4FCC-8D03-451FD1233B41}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7C8A106E-DDEE-438D-9FFA-37471C8DB54C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EshellAPI.API", "Presentation\EshellAPI.API\EshellAPI.API.csproj", "{5067B670-3F34-43F5-8BF8-A1083BA8D307}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EshellAPI.API", "Presentation\EshellAPI.API\EshellAPI.API.csproj", "{5067B670-3F34-43F5-8BF8-A1083BA8D307}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
