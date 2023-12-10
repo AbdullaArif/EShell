@@ -29,31 +29,36 @@ namespace EShellAPI.Persistence.Repositories
 
       
 
-        public async Task<bool> AddRangeAsync(List<T> model)
+        public async Task<bool> AddRangeAsync(List<T> datas)
         {
-          await  Table.AddRangeAsync(model);
+          await  Table.AddRangeAsync(datas);
             return true;
         }
 
-        public Task<int> SaveAsync()
+        public async Task<int> SaveAsync() => await _context.SaveChangesAsync();
+       
+
+        public bool Update(T model)
         {
-            throw new NotImplementedException();
+           EntityEntry entityEntry = Table.Update(model);
+            return entityEntry.State == EntityState.Modified;
+        }
+        public bool RemoveRange(List<T> datas)
+        {
+            Table.RemoveRange(datas);
+            return true;
         }
 
-        public Task<bool> UpdateAsync(T model)
-        {
-            throw new NotImplementedException();
-        }
-
-        bool IWriteRepository<T>.Remove(T model)
+        public bool  Remove(T model)
         {
             EntityEntry<T> entityEntry = Table.Remove(model);
             return entityEntry.State == EntityState.Deleted;
         }
 
-        bool IWriteRepository<T>.Remove(string id)
+        public async Task<bool> RemoveAync(string id)
         {
-            throw new NotImplementedException();
+         T model = await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
+            return Remove(model);
         }
     }
 }
