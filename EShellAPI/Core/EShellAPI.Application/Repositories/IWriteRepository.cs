@@ -12,7 +12,7 @@ namespace EShellAPI.Application.Repositories
         Task<bool> AddAsync(T model);
         Task<bool> AddRangeAsync(List<T> datas);
         bool Remove(T model);
-        Task<bool> RemoveRemoveAync(string id);
+        Task<bool> RemoveAync(string id);
         bool RemoveRange(List<T> datas);
         bool Update(T model);
        

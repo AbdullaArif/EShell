@@ -3,7 +3,6 @@ C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\obj\Debug\net6.
 C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\obj\Debug\net6.0\EshellAPI.API.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\obj\Debug\net6.0\EshellAPI.API.AssemblyInfo.cs
 C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\obj\Debug\net6.0\EshellAPI.API.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\obj\Debug\net6.0\EshellAPI.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\obj\Debug\net6.0\EshellAPI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\user\Desktop\ESell\EShellAPI\Presentation\EshellAPI.API\bin\Debug\net6.0\appsettings.json
